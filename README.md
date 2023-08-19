@@ -3,11 +3,11 @@
 
 - 📫 How to reach me **rohilkalra@gmail.com**
   
-- I'm currently working on various web apps (MERN stack)
+- 👨‍💻 I'm currently working on various web apps (MERN stack)
   
-- I'm most passionate about solving problems involving data structures and algorithms
+- 🔢 I'm most passionate about solving problems involving data structures and algorithms
 
-- ⚡ Fun fact **I can solve a Rubiks cube in 20 seconds**
+- ⚡ **Fun fact** I can solve a Rubiks cube in 20 seconds
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
