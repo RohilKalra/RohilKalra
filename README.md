@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there, I'm Rohil 👋
+
+Software Developer - CS Student at UCLA
+
+I love using data structures and algorithms to solve problems!
+
+## Skills
+arduino bootstrap css3 figma firebase flask git heroku html5 javascript opencv python pytorch react scikit_learn
+
+aws c cplusplus css3 linux nodejs 
 
 <!--
 **RohilKalra/RohilKalra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
